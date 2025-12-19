@@ -7,7 +7,8 @@ def JiaHao():
         "想你了，厚良",
         "逆天",
         "确实",
-        "笑死"
+        "笑死",
+        "抽象"
     ]
     return random.choice(responses)
 
